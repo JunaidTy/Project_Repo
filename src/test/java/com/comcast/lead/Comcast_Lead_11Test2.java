@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Comcast_Lead_11Test2 {
 	@Test(groups = "SmokeSuite")
 	public void lead1() {
-		System.out.println("Lead test Case 1 executed");
+		System.out.println("Lead test Case smoke 3 executed");
 		
 	}
 	@Test
@@ -15,7 +15,7 @@ public class Comcast_Lead_11Test2 {
 	}
 	@Test(groups = "SmokeSuite")
 	public void lead3() {
-		System.out.println("Lead test Case 3 executed");
+		System.out.println("Lead test Case smoke 4 executed");
 		
 	}
 
