@@ -10,7 +10,7 @@ public class Comcast_Lead_11Test4 {
 	}
 	@Test(groups = "RegressionSuite")
 	public void lead2() {
-		System.out.println("Lead test Case 2 executed");
+		System.out.println("Lead test Case reg 4 executed");
 		
 	}
 	@Test
